@@ -1,7 +1,7 @@
 # Cloud Computing Repository
 
 ## Overview
-This repository contains various resources, guides, and documentation related to cloud computing, containerization, DevOps tools, and virtualization. It includes PDFs, PowerPoint presentations, text files, and scripts that cover topics such as AWS, Docker, Kubernetes, Jenkins, and more.
+This repository contains various resources, guides, and documentation related to cloud computing, containerization, DevOps tools, and virtualization. It includes PDFs, PowerPoint presentations, text files, and scripts that cover topics such as AWS, Docker, Kubernetes, Jenkins,and more.
 
 ## Contents
 
